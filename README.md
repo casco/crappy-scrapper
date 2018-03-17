@@ -1,9 +1,9 @@
 # crappy-scrapper
-A crappy example of how to use request, xpath, and xmldo, to obtain a web page and select its title tags.
+A crappy example of how to use request, xpath, and xmldom, to do scrapping of the title tag of any web page.
 
-You need nodejs and npm install
+You need nodejs and npm
 
-to install dependencies run:
+To install dependencies run:
 ```
 npm intall
 ```
